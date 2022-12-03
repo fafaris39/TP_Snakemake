@@ -82,7 +82,7 @@ This is atacseq analysis snakemake of data produced in the Gomez-Cabrero et al. 
 ```
 
 ### To launch the pipeline you need :
-* __subset__ and __bonwtie2__ indexfiles in `atacseq/data/subset` & `atacseq/data/reference/bowtie2`
+* __subset__ and __bonwtie2__ index files in `atacseq/data/subset` & `atacseq/data/reference/bowtie2`
 * All output in   `atacseq/results`
 * Snakemake config in `atacseq/scripts/config`
 * Conda environment config files are in `atacseq/scripts/envs`
