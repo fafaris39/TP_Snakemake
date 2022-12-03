@@ -87,3 +87,4 @@ The purpose of this project is to identify accessible chromatin regions,, which 
 * All output in   `atacseq/results`
 * Snakemake config in `atacseq/scripts/config`
 * Conda environment config files are in `atacseq/scripts/envs`
+* Lunch the pipeline in conda snakemake with this command `snakemake --cores all --use-conda --snakefile scripts/Snakefile` 
