@@ -1,0 +1,3 @@
+WorkflowError in line 8 of /home/ubuntu/atacseq/scripts/Snakefile:
+Workflow defines configfile scripts/config/config.yaml but it is not present or accessible.
+  File "/home/ubuntu/atacseq/scripts/Snakefile", line 8, in <module>

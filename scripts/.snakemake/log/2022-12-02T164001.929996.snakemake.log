@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 14 of /home/ubuntu/atacseq/scripts/Snakefile:
+Missing input files for rule unzip:
+data/subset/None.fastq.gz
