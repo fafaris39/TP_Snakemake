@@ -81,7 +81,7 @@ The purpose of this project is to identify accessible chromatin regions,, which 
 └── tmp
     └── ss_50k_0h_R1_1.fastq
 ```
-
+* The pipeline was performed only on subset data instead raw data.
 ### To launch the pipeline you need :
 * __subset__ and __bonwtie2__ index files in `atacseq/data/subset` & `atacseq/data/reference/bowtie2`
 * All output in   `atacseq/results`
